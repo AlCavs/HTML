@@ -1,0 +1,54 @@
+body{
+    margin-left: 1cm;
+}
+h1 {
+    color: teal;
+}
+p strong {
+    color: red;
+}
+.destacado {
+    color: goldenrod;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+#subtitulo {
+  color: blue;
+}
+body p a {
+  color: red;
+}
+a em {
+  color: blue;
+}
+span.especial {
+  color: darkviolet;
+}
+.especial {
+  color: gold;
+}
+tfoot th {
+    color: red;
+}
+tbody th{
+    color : red;
+}
+
+tbody td{
+    color : green;
+}
+  tbody td strong{
+    color: gold
+  }
+  #adicional p{
+    color: olive;
+  }
+ #especial{
+    color: magenta;
+  }
+  #adicional p a{
+    color: green;
+  }
